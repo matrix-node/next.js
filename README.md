@@ -14,6 +14,7 @@ The project intentionally keeps things simple so you can focus on the framework 
 - Provide a minimal, hands-on Next.js + TypeScript example using the App Router (`app/`).
 - Demonstrate common patterns: pages/routes, layouts, global styles, and a basic example page in `printforge/`.
 - Offer exercises and suggestions to practice and extend the app.
+- Learn Industry standard Typescript for code safety.
 
 ## Tech stack
 
